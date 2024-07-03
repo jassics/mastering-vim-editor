@@ -1,4 +1,4 @@
-# Let's use VIM (Vi IMproved) editor
+# Mastering (Vi IMproved) editor
 
 ## What we have for you in this repository
 1. [About Vim](README.md)
