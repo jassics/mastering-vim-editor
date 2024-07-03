@@ -1,4 +1,5 @@
 # Mastering (Vi IMproved) editor
+![Mastering Vim](/mastering-vim-editor.png)
 
 ## What we have for you in this repository
 1. [About Vim](README.md)
